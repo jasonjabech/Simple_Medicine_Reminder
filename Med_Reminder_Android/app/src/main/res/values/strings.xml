@@ -1,0 +1,7 @@
+<resources>
+        <string name="app_name">Simple Medicine Reminder</string>
+        <string name="medicine_name_hint">Medicine Name</string>
+        <string name="set_reminder_button">Set Reminder</string>
+
+
+</resources>
